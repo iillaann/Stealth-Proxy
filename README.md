@@ -1,6 +1,6 @@
 <div align="center">
          
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/IDontCodee/Incognito/main/static/index.svg">
+<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/StealthProxy/Stealth-Proxy/main/New_Project.png">
 
 <h1>Stealth</h1>
 
