@@ -1,0 +1,1 @@
+importScripts("./uv/uv.sw.js");const sw=new UVServiceWorker;sw.on("request",(e=>{})),self.addEventListener("fetch",(e=>{e.respondWith(sw.fetch(e))}));
