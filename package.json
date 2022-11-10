@@ -1,0 +1,39 @@
+{
+  "name": "Incognito",
+  "version": "1.0.0",
+  "description": "Unofficial Incognito easy deployment version with TompHTTP bare server included.",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "files": [
+    "static",
+    ".gitignore",
+    "app.json",
+    ".replit",
+    "replit.nix",
+    "Procfile",
+    "webretro.sh"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDontCodee/Incognito"
+  },
+  "keywords": [
+    "unoffical",
+    "ultraviolet",
+    "unblock",
+    "titaniumnetwork",
+    "bypass-filter"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "1.0.4-deps1",
+    "jquery": "^3.6.1",
+    "jsdom": "^20.0.0",
+    "serve-static": "^1.15.0",
+    "underscore": "^1.13.6",
+    "ws": "^8.9.0"
+  }
+}
